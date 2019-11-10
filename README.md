@@ -18,4 +18,4 @@ on it.
 3. In multiplication cycles widely used pointers instead of indices, which 
 allowed the compiller to make additional optimisations
 
-`main2.cpp` - example of usage, `blockmatr.hpp` - multiplicator class.
+`main.cpp` - example of usage, `blockmatr.hpp` - multiplicator class.
